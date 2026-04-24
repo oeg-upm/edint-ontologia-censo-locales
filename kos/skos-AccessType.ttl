@@ -24,9 +24,9 @@ edintkos:AccessType a skos:ConceptScheme ;
     rdfs:label "Tipo de acceso a equipamientos"@es ;
     dct:title "Concept scheme grouping types of access to facilities"@en ;
     dct:title "Esquema de conceptos que agrupa tipos de acceso a los equipamientos"@es ;
-    skos:hasTopConcept edintkoacctype:StreetDoor ;
-    skos:hasTopConcept edintkoacctype:Indoor ;
-    skos:hasTopConcept edintkoacctype:Floor .
+    skos:hasTopConcept edintkosacctype:StreetDoor ;
+    skos:hasTopConcept edintkosacctype:Indoor ;
+    skos:hasTopConcept edintkosacctype:Floor .
 
 
 #################################################################
