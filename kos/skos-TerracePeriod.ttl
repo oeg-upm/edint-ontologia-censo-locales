@@ -4,6 +4,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix cc: <http://creativecommons.org/ns#> .
 
 @prefix edintkos: <http://vocab.linkeddata.es/datosabiertos/kos/edint/> .
 @prefix edintkosterper: <http://vocab.linkeddata.es/datosabiertos/kos/edint/TerracePeriod/> .
@@ -14,7 +16,7 @@
 #
 #################################################################
 
-edintkos:CommercialSpaceStatus a skos:ConceptScheme ; 
+edintkos:TerracePeriod a skos:ConceptScheme ; 
     dct:issued "2026-04-20"^^xsd:date ;
     dct:modified "2026-04-20"^^xsd:date ;
     cc:license <https://creativecommons.org/licenses/by/4.0/> ;
