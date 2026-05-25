@@ -40,6 +40,7 @@
         <dcterms:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
         <dcterms:title xml:lang="es">Ontología de Establecimiento Comercial</dcterms:title>
         <dcterms:title xml:lang="en">The Commercial Establishment Ontology</dcterms:title>
+        <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-04-15</dcterms:issued>
         <vann:preferredNamespacePrefix>edintcom</vann:preferredNamespacePrefix>
         <vann:preferredNamespaceUri rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/comercio/censo-locales#"/>
         <owl:versionInfo>0.1.0</owl:versionInfo>
